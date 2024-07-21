@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /admin
+Disallow: /ajax/*
+Disallow: /ajax/
+Disallow: /ajax
+Allow: /
+
+
+Sitemap: https://drsherifshawky.com/circle/en/sitemap.xml
+Sitemap: https://drsherifshawky.com/circle/en/blogs-sitemap.xml
+Sitemap: https://drsherifshawky.com/circle/en/services-sitemap.xml
+Sitemap: https://drsherifshawky.com/circle/en/categories-sitemap.xml
+Sitemap: https://drsherifshawky.com/circle/en/galleryImages-sitemap.xml
+
+Sitemap: https://drsherifshawky.com/circle/ar/sitemap.xml
+Sitemap: https://drsherifshawky.com/circle/ar/blogs-sitemap.xml
+Sitemap: https://drsherifshawky.com/circle/ar/services-sitemap.xml
+Sitemap: https://drsherifshawky.com/circle/ar/categories-sitemap.xml
+Sitemap: https://drsherifshawky.com/circle/ar/galleryImages-sitemap.xml
+
+

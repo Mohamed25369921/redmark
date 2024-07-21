@@ -1,0 +1,243 @@
+:root {
+  --dark-color1: #111111;
+  --dark-color2: #232323;
+  --dark-color3: #343434;
+  --dark-color4: #212529;
+}
+
+body,
+.sticky-header.fixed-header,
+.page-wrapper,
+.skills .skill-item .skill-bar .bar-inner,
+.accordion-box.style-two .block .acc-btn.active,
+.contact-form .form-group .select2-container--default .select2-selection--single,
+.contact-form .form-group input:not([type=submit]),
+.contact-form .form-group textarea,
+.contact-form .form-group select,
+.tracking-form form,
+.tracking-form .form-group input,
+.tracking-form .form-group select,
+.tracking-form .form-group textarea,
+.tracking-form .form-group .icon,
+.service-block-four .icon:after {
+  background-color: var(--dark-color1);
+}
+
+.testimonial-block-five .content-box:before {
+  border-top: 45px solid var(--dark-color1);
+}
+
+.btn-style-three {
+  background-color: #000;
+}
+
+.about-section-six .image-column .image-box:before {
+  background-color: var(--bg-theme-color2);
+}
+
+.about-section-five,
+.service-section .bottom-text .text {
+  border-color: var(--dark-color1);
+}
+
+.slider-style-four .title:before,
+.accordion-box.style-two .block .acc-btn,
+.testimonial-block-two .inner-box,
+.contact-form-two,
+.clients-section .clients-carousel .owl-nav,
+.main-header .main-box.style-two,
+.contact-form,
+.clients-carousel .slide-item a:hover,
+.about-section-three .content-column .inner-column .icon-box,
+.feature-block-five .inner-box,
+.contact-section-four .form-column .inner-column .contact-form,
+.pricing-block .inner-box,
+.project-block-three .image-box .overlay-box::before,
+.about-section-four .content-column .info-box .inner .icon:after,
+.services-section-two.pull-up,
+.tracking-section.pull-down .outer-box:before,
+.tracking-form,
+.contact-section-five,
+.service-section,
+.about-section-six .image-column .inner-column .image-box .exp-box,
+.about-section-six .image-column .inner-column .image-box .exp-box .inner,
+.service-block-four .inner-box,
+.service-block-four .inner-box:before,
+.service-block-four .inner-box:after,
+.testimonial-block-three .inner-box {
+  background-color: var(--dark-color2);
+}
+
+.border-color-dark2,
+.main-header .header-top,
+.about-section-two .content-column .inner-column .list-style-three,
+.about-section-two .image-column .image-2,
+.news-block .bottom-box,
+.news-block .content-box,
+.clients-section .outer-box,
+.about-section .image-column .inner-column .image-box .image-2,
+.about-section .content-column .inner-box .about-block .inner-box,
+.banner-section .inner-column .theme-btn,
+.about-section-three .image-box .experience:before,
+.pricing-block .inner-box .plan-price,
+.pricing-block .inner-box,
+.about-section-six .content-column .inner-box .about-block .inner-box,
+.service-block-four .inner-box {
+  border-color: var(--dark-color2) !important;
+}
+
+.border-top {
+  border-top-color: var(--dark-color2) !important;
+}
+
+.pricing-block.style-two .inner-box,
+.about-section .image-column .inner-column .image-box .exp-box,
+.about-section .image-column .inner-column .image-box .exp-box .inner,
+.accordion-box.style-two .block .acc-content .content,
+.counter-block .inner,
+.news-block .bottom-box,
+.feature-block .inner-box,
+.team-block-two .inner-box:before,
+.testimonial-block-two .inner-box:before,
+.clients-section .clients-carousel .owl-nav .owl-prev,
+.clients-section .clients-carousel .owl-nav .owl-next,
+.pricing-block .inner-box,
+.info-btn-two,
+.call-to-action-three .content-box .info-box .inner:before {
+  background-color: var(--dark-color3);
+}
+
+.main-header .header-lower .logo-box:before,
+.about-section-two .image-column .experience,
+.services-section-two .bg-image:before,
+.service-block-two .inner-box .image-box .icon-box,
+.services-section-two,
+.fun-fact-section,
+.testimonial-block .inner-box,
+.feature-block-four .inner-box .content-box,
+.faqs-section .image-column .inner-column .image-box .float-text,
+.accordion-box .block,
+.accordion-box .block .acc-btn,
+.accordion-box .block .acc-btn.active,
+.contact-section-six,
+.news-block .content-box,
+.features-section-two:before,
+.banner-style-three {
+  background-color: var(--dark-color4);
+}
+
+.main-menu .navigation > li > a,
+.list-style-one li,
+.main-header .header-top .inner-container .top-left .list-style-one li a,
+.header-style-two .sticky-header-style-two .navigation li a,
+.info-btn strong,
+.info-btn small,
+.list-style-two li,
+.about-section .content-column .inner-box .btn-box .auther-info .content-box .title2,
+.skills .skill-item .skill-header .skill-title,
+.testimonial-block-two .inner-box:hover .text,
+.main-header .ui-btn,
+.list-style-three li:hover,
+.list-style-three li:hover a,
+.pricing-block .inner-box .plan-list .user-links li,
+.pricing-block .inner-box .plan-price .plan,
+.pricing-block .inner-box .plan-list .user-links li a,
+.banner-style-three .inner-column .text,
+.banner-style-three .inner-column .theme-btn,
+.service-section .bottom-text .text,
+.info-btn-two small {
+  color: var(--text-color);
+}
+
+.main-menu .navigation > li.current > a,
+.sticky-header .main-menu .navigation > li.current > a,
+.sticky-header .main-menu .navigation > li:hover > a,
+.about-section-two .content-column .inner-column .sec-title h2,
+.about-section-two .content-column .btn-box .founder-info .info .name,
+.about-section-two .image-column .experience .inner .text strong,
+.counter-block .inner .counter-title,
+.feature-block-four .inner-box .content-box .title a,
+.faqs-section .image-column .inner-column .image-box .float-text,
+.accordion-box .block .acc-btn,
+.contact-section .ceo-info .name,
+.feature-block .content-box .title,
+.about-section .content-column .inner-box .btn-box .auther-info .content-box h6,
+.about-section .image-column .inner-column .image-box .exp-box .inner .icon-box .count,
+.team-block-two .info-box .name a,
+.testimonial-block-two .inner-box:hover .name,
+.clients-section .clients-carousel .owl-nav .owl-prev,
+.clients-section .clients-carousel .owl-nav .owl-next,
+.news-block .content-box .title a,
+.news-block .bottom-box .read-more:hover,
+.info-btn-two,
+.feature-block-five .inner-box .title,
+.pricing-block .inner-box .plan-price .title,
+.pricing-block .inner-box .plan-price .title small,
+.about-section-six .image-column .inner-column .image-box .exp-box .inner .icon-box .count,
+.about-section-six .content-column .inner-box .btn-box .auther-info .content-box .title,
+.service-block-four .title a,
+.testimonial-block-three .name {
+  color: #fff;
+}
+
+.clients-section.alternate,
+.pricing-block.style-two .price-box,
+.banner-section.banner-style-three .inner-column .theme-btn {
+  border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.header-style-two-new .info-btn-two i.icon,
+.play-now .icon,
+.accordion-box .block .acc-btn .icon,
+.team-block-three .inner-box .image-box .info-box .icon {
+  background-color: var(--theme-color-dark);
+  color: var(--theme-color-light);
+}
+
+.main-menu .navigation > li:before {
+  background-color: #fff;
+}
+
+.about-section .content-column .info-box:hover .title {
+  color: var(--dark-color1);
+}
+
+.project-section {
+  background-color: unset;
+}
+
+.counter-block .inner {
+  background-image: unset;
+}
+
+.opacity15 {
+  opacity: 0.15;
+}
+
+.video-section .icon-shape-4,
+.banner-style-three .image-box .overlay-shape,
+.service-section .bg-pattern-4 {
+  opacity: 0.03;
+}
+
+.testimonial-section .bg-shape-1,
+.features-section-three .bg.bg-image,
+.team-section .bg.bg-image,
+.contact-section-six .bg-pattern-8,
+.about-section .image-column .inner-column .image-box:before,
+.why-choose-us-two .bg-pattern-6,
+.news-section.news-section-style-two .bg.bg-image,
+.pricing-section .bg-image,
+.features-section-four .bg-image {
+  opacity: 0.1;
+}
+
+.why-choose-us-two:before {
+  opacity: 0.21;
+}
+
+.clients-carousel .slide-item img {
+  -webkit-filter: brightness(10);
+          filter: brightness(10);
+  opacity: 1;
+}

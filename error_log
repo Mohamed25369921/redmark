@@ -1,0 +1,5 @@
+[01-Feb-2024 13:54:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3637041 bytes) in /home/cadcamteacher/public_html/dev/vendor/intervention/image/src/Intervention/Image/Gd/Commands/ResizeCommand.php on line 58
+[01-Feb-2024 13:54:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 528384 bytes) in /home/cadcamteacher/public_html/dev/vendor/symfony/mime/FileinfoMimeTypeGuesser.php on line 54
+[01-Feb-2024 13:54:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3637041 bytes) in /home/cadcamteacher/public_html/dev/vendor/intervention/image/src/Intervention/Image/Gd/Commands/ResizeCommand.php on line 58
+[01-Feb-2024 13:54:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 528384 bytes) in /home/cadcamteacher/public_html/dev/vendor/symfony/mime/FileinfoMimeTypeGuesser.php on line 54
+[23-Mar-2024 15:11:27 UTC] PHP Warning:  POST Content-Length of 13305524 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
